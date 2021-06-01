@@ -1,0 +1,118 @@
+.all {
+    width: 1240px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 45px;
+    font-size: 24px;
+}
+
+/* .header {
+    font-size: 24px;
+} */
+
+.navig {
+    background-color: #35444F;
+    line-height: 4.5;
+    margin-left: 27px;
+}
+
+.na {
+    margin-left: 164px;
+}
+
+.navig a {
+    color: #ffffff;
+    text-decoration: none;
+    padding-right: 21px;
+    padding-left: 21px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.navig a:hover {
+    background-color: #222F3A;
+}
+
+.main {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+}
+
+.navmain {
+    border: 1px solid;
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+ 
+}
+
+.navmain a {
+   line-height: 80px;
+   color: #485863;
+   text-decoration: none;
+   padding-left: 40px;
+   padding-right: 90px;
+    padding-top: 31px;
+    padding-bottom: 31px;
+    font-size: medium;
+
+}
+
+.navmain a:hover{
+background-color: gray;
+padding-left: 80px;
+
+}
+
+
+
+.logom {
+    border: 1px solid;
+    display: inline-block;
+    width: 602px;
+    padding-right: 297px;
+    padding-left: 30px;
+ 
+}
+
+.img {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    padding-right: 297px;
+    padding-left: 325px;
+    margin-top: -45px;
+}
+
+.text {
+    text-align: left;
+    font-size: 18px;
+    margin-left: 255px;
+    padding-top: 50px;
+}
+
+.footer {
+    margin-top: 50px;
+    background-color: gray;
+    padding-top: 30px;
+}
+
+.navfoot {
+    padding-bottom: 25px;
+    padding-left: 82px;
+}
+.navfoot a {
+    text-decoration: none;
+    color: black;
+}
+
+.navfoot a:hover{
+    text-decoration: underline;
+    color: cadetblue;
+}
+
+
+
+
+.copy {
+    margin-left: 250px;
+}
